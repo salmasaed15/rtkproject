@@ -1,2 +1,2 @@
 # rtkproject
-simple project using redux toolkit
+simple project using redux toolkit creating by me
